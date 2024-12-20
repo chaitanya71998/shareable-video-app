@@ -4,7 +4,7 @@ import "./VideoPlayer.css"
 const VideoPlayer = () => {
   const [errorMessage, setErrorMessage] = useState("")
   const videoUrl =
-    "https://nkb-backend-ccbp-media-static.s3.ap-south-1.amazonaws.com/website/video_assets/verticalNatureTesting_9_16.mp4"
+    "https://media-content.ccbp.in/website/video_assets/verticalNatureTesting_9_16.mp4"
 
   const handleShare = async () => {
     if (navigator.share) {
