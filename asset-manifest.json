@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shareable-video-app/static/css/main.71201210.css",
+    "main.js": "/shareable-video-app/static/js/main.41e79438.js",
+    "static/js/453.ad0160db.chunk.js": "/shareable-video-app/static/js/453.ad0160db.chunk.js",
+    "index.html": "/shareable-video-app/index.html",
+    "main.71201210.css.map": "/shareable-video-app/static/css/main.71201210.css.map",
+    "main.41e79438.js.map": "/shareable-video-app/static/js/main.41e79438.js.map",
+    "453.ad0160db.chunk.js.map": "/shareable-video-app/static/js/453.ad0160db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71201210.css",
+    "static/js/main.41e79438.js"
+  ]
+}
